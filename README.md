@@ -13,7 +13,7 @@
 
 ---
 
-I build and study **multi-agent systems** — from production AI pipelines for Fortune 500 companies to research on how coding agents use context, memory, and orchestration.
+I build and study **AI agents** and **multi-agent systems** — from production AI pipelines for Fortune 500 companies to research on how to optimize agents use context, memory, and orchestration.
 
 - 🔬 **Applied Research Intern @ JetBrains Research** — studying context engineering for AI coding agents (Claude Code, Cursor, Copilot). Large-scale repo mining, embedding-based clustering, LLM-assisted pattern extraction.
 - 🏗️ **Data & AI Software Engineer @ KI performance** — shipped multi-agent LLM systems for Microsoft, Lufthansa, Mercedes-Benz, DHL. LangGraph orchestration on Azure. Certified: Azure AI Engineer, Azure Developer, Databricks Developer.
@@ -23,9 +23,9 @@ I build and study **multi-agent systems** — from production AI pipelines for F
 
 
 ## Research interests:
-  1. Prompt analysis & refinement — pattern recognition, quality metrics, debugging
-  2. Context engineering for AI coding agents — configs, memory, orchestration
-  3. Multi-agent system optimization — architecture, evaluation, developer productivity
+  1. Multi-agent system optimization — architecture, evaluation, performance
+  2. Context & environment engineering for AI coding agents — configs, memory, orchestration
+  3. Prompt analysis & refinement — pattern recognition, quality metrics, debugging
 
 ---
 
