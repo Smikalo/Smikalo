@@ -57,7 +57,7 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 
 ---
 
-## 🛠️ Tools I use
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
