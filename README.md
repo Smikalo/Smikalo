@@ -104,14 +104,14 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 
 ## 📊 Activity
 
+<p align="center">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" />
+</p>
+
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&theme=modern-lilac2&hide_border=true&short_numbers=true" alt="Streak stats" /></a>
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px" />
 </div>
-
-<p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" />
-</p>
 
 ---
 
