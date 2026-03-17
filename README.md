@@ -120,8 +120,6 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 
 I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary builds that need to go from idea to demo fast.
 
-## Let’s connect
-
 <p>
   <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> •
   <a href="https://devpost.com/smrtkozyrev">Devpost</a> •
@@ -130,11 +128,7 @@ I enjoy high-intensity environments where good systems thinking matters — espe
 </p>
 
 <p align="center">
-  <strong>English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)</strong><br/>
-  <sub>📍 Munich, Germany · B.Sc. CS @ TUM · 149 ECTS (125% pace)</sub>
-</p>
-
-<p align="center">
+  <strong>Let’s connect</strong><br/>
   <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> · <a href="https://devpost.com/smrtkozyrev">Devpost</a> · <a href="https://the-pum.com/">PUM</a> · <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
 </p>
 
