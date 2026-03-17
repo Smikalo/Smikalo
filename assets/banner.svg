@@ -1,65 +1,77 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bannerTitle bannerDesc">
   <title id="bannerTitle">Mykhailo Kozyrev — GitHub Profile Banner</title>
-  <desc id="bannerDesc">Dark themed profile banner with name, role, and ambient visual elements</desc>
+  <desc id="bannerDesc">Dark magenta themed profile banner with name, role, and ambient visual elements</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#06080D"/>
-      <stop offset="0.35" stop-color="#0D1117"/>
-      <stop offset="0.7" stop-color="#0B1422"/>
-      <stop offset="1" stop-color="#0D1117"/>
+      <stop stop-color="#050106"/>
+      <stop offset="0.32" stop-color="#150513"/>
+      <stop offset="0.7" stop-color="#2B0831"/>
+      <stop offset="1" stop-color="#12040F"/>
     </linearGradient>
+
     <linearGradient id="nameGrad" x1="80" y1="100" x2="700" y2="170" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E6EDF3"/>
-      <stop offset="1" stop-color="#B0C4DE"/>
+      <stop stop-color="#FFE6FB"/>
+      <stop offset="0.55" stop-color="#FFB3EF"/>
+      <stop offset="1" stop-color="#F06BDA"/>
     </linearGradient>
+
     <linearGradient id="accentLine" x1="80" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF"/>
-      <stop offset="0.6" stop-color="#3FB950"/>
-      <stop offset="1" stop-color="#3FB950" stop-opacity="0"/>
+      <stop stop-color="#FF4FCF"/>
+      <stop offset="0.6" stop-color="#C85BFF"/>
+      <stop offset="1" stop-color="#C85BFF" stop-opacity="0"/>
     </linearGradient>
+
     <linearGradient id="orb1" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#58A6FF" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop stop-color="#FF3FC8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FF3FC8" stop-opacity="0"/>
     </linearGradient>
+
     <linearGradient id="orb2" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#3FB950" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#3FB950" stop-opacity="0"/>
+      <stop stop-color="#C95BFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#C95BFF" stop-opacity="0"/>
     </linearGradient>
+
     <linearGradient id="orb3" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#F78166" stop-opacity="0.06"/>
-      <stop offset="1" stop-color="#F78166" stop-opacity="0"/>
+      <stop stop-color="#FF93DD" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#FF93DD" stop-opacity="0"/>
     </linearGradient>
+
     <filter id="softGlow">
       <feGaussianBlur stdDeviation="40" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
+
     <filter id="textShadow">
-      <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#58A6FF" flood-opacity="0.15"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#FF4FCF" flood-opacity="0.18"/>
     </filter>
+
     <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
-      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1B2838" stroke-width="0.5" opacity="0.4"/>
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#3A163B" stroke-width="0.5" opacity="0.45"/>
     </pattern>
   </defs>
 
   <!-- Background -->
   <rect width="1280" height="320" fill="url(#bg)"/>
-  <rect width="1280" height="320" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1280" height="320" fill="url(#grid)" opacity="0.55"/>
 
   <!-- Ambient orbs -->
   <circle cx="1050" cy="80" r="200" fill="url(#orb1)" filter="url(#softGlow)"/>
   <circle cx="200" cy="280" r="160" fill="url(#orb2)" filter="url(#softGlow)"/>
   <circle cx="750" cy="300" r="120" fill="url(#orb3)" filter="url(#softGlow)"/>
 
-  <!-- Decorative dots - sparse constellation feel -->
-  <circle cx="920" cy="60" r="1.5" fill="#58A6FF" opacity="0.5"/>
-  <circle cx="980" cy="45" r="1" fill="#58A6FF" opacity="0.35"/>
-  <circle cx="1060" cy="75" r="2" fill="#58A6FF" opacity="0.4"/>
-  <circle cx="1120" cy="50" r="1" fill="#3FB950" opacity="0.3"/>
-  <circle cx="1180" cy="90" r="1.5" fill="#58A6FF" opacity="0.25"/>
-  <circle cx="860" cy="90" r="1" fill="#3FB950" opacity="0.3"/>
-  <circle cx="1000" cy="100" r="1" fill="#F0F6FC" opacity="0.2"/>
-  <circle cx="1140" cy="110" r="1.2" fill="#58A6FF" opacity="0.3"/>
+  <!-- Decorative dots -->
+  <circle cx="920" cy="60" r="1.5" fill="#FF5FD2" opacity="0.55"/>
+  <circle cx="980" cy="45" r="1" fill="#FF8BE4" opacity="0.4"/>
+  <circle cx="1060" cy="75" r="2" fill="#D56CFF" opacity="0.45"/>
+  <circle cx="1120" cy="50" r="1" fill="#FFB1EC" opacity="0.35"/>
+  <circle cx="1180" cy="90" r="1.5" fill="#FF73D9" opacity="0.3"/>
+  <circle cx="860" cy="90" r="1" fill="#C95BFF" opacity="0.35"/>
+  <circle cx="1000" cy="100" r="1" fill="#FFF0FD" opacity="0.22"/>
+  <circle cx="1140" cy="110" r="1.2" fill="#E278FF" opacity="0.35"/>
 
   <!-- Thin accent line -->
   <rect x="80" y="178" width="480" height="2" rx="1" fill="url(#accentLine)"/>
@@ -68,30 +80,30 @@
   <text x="80" y="160" fill="url(#nameGrad)" filter="url(#textShadow)" style="font: 700 56px 'Segoe UI', system-ui, -apple-system, sans-serif; letter-spacing: -1.5px;">Mykhailo Kozyrev</text>
 
   <!-- Role line -->
-  <text x="82" y="210" fill="#8B949E" style="font: 500 18px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.5px;">Data &amp; AI Engineer · Applied Researcher · Founder</text>
+  <text x="82" y="210" fill="#C89BBE" style="font: 500 18px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.5px;">Data &amp; AI Engineer · Applied Researcher · Founder</text>
 
   <!-- Keyword chips -->
   <g transform="translate(80, 240)">
-    <rect width="130" height="30" rx="15" fill="#111D2B" stroke="#1F3A5F" stroke-width="1"/>
-    <text x="16" y="20" fill="#58A6FF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">AGENT SYSTEMS</text>
+    <rect width="130" height="30" rx="15" fill="#241026" stroke="#5E1F58" stroke-width="1"/>
+    <text x="16" y="20" fill="#FF63D4" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">AGENT SYSTEMS</text>
 
-    <rect x="142" width="166" height="30" rx="15" fill="#111D2B" stroke="#1F3A5F" stroke-width="1"/>
-    <text x="156" y="20" fill="#58A6FF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">CONTEXT ENGINEERING</text>
+    <rect x="142" width="166" height="30" rx="15" fill="#2A102F" stroke="#7A2B7E" stroke-width="1"/>
+    <text x="156" y="20" fill="#F47CFF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">CONTEXT ENGINEERING</text>
 
-    <rect x="320" width="102" height="30" rx="15" fill="#0F2918" stroke="#1A4D2E" stroke-width="1"/>
-    <text x="336" y="20" fill="#3FB950" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">RESEARCH</text>
+    <rect x="320" width="102" height="30" rx="15" fill="#29142F" stroke="#8D45B1" stroke-width="1"/>
+    <text x="336" y="20" fill="#D992FF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">RESEARCH</text>
 
-    <rect x="434" width="96" height="30" rx="15" fill="#261C0F" stroke="#4D3A1F" stroke-width="1"/>
-    <text x="450" y="20" fill="#F0883E" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">SHIPPING</text>
+    <rect x="434" width="96" height="30" rx="15" fill="#33111F" stroke="#8D2C59" stroke-width="1"/>
+    <text x="450" y="20" fill="#FFA4DA" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">SHIPPING</text>
   </g>
 
   <!-- Right side: subtle terminal/code aesthetic -->
   <g transform="translate(820, 130)">
-    <text y="0" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">$ context-engineer --agents 32 --eval strict</text>
-    <text y="22" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ taxonomy loaded: 5 layers</text>
-    <text y="44" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ orchestration: planner → critic → exec</text>
-    <text y="66" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ feedback loop: <tspan fill="#3FB950" opacity="1">active</tspan></text>
-    <text y="88" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ shipped: <tspan fill="#58A6FF" opacity="1">10+ prototypes</tspan></text>
+    <text y="0" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">$ context-engineer --agents 32 --eval strict</text>
+    <text y="22" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ taxonomy loaded: 5 layers</text>
+    <text y="44" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ orchestration: planner → critic → exec</text>
+    <text y="66" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ feedback loop: <tspan fill="#FF63D4" opacity="1">active</tspan></text>
+    <text y="88" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ shipped: <tspan fill="#D992FF" opacity="1">10+ prototypes</tspan></text>
   </g>
 
   <!-- Bottom edge fade -->
