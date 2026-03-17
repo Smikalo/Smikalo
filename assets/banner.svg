@@ -84,26 +84,26 @@
 
   <!-- Keyword chips -->
   <g transform="translate(80, 240)">
-    <rect width="130" height="30" rx="15" fill="#241026" stroke="#5E1F58" stroke-width="1"/>
-    <text x="16" y="20" fill="#FF63D4" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">AGENT SYSTEMS</text>
+    <rect width="135" height="30" rx="15" fill="#241026" stroke="#5E1F58" stroke-width="1"/>
+    <text x="15" y="20" fill="#FF63D4" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">AGENT SYSTEMS</text>
 
-    <rect x="142" width="166" height="30" rx="15" fill="#2A102F" stroke="#7A2B7E" stroke-width="1"/>
-    <text x="156" y="20" fill="#F47CFF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">CONTEXT ENGINEERING</text>
+    <rect x="147" width="92" height="30" rx="15" fill="#2A102F" stroke="#7A2B7E" stroke-width="1"/>
+    <text x="161" y="20" fill="#F47CFF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">AI &amp; DATA</text>
 
-    <rect x="320" width="102" height="30" rx="15" fill="#29142F" stroke="#8D45B1" stroke-width="1"/>
-    <text x="336" y="20" fill="#D992FF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">RESEARCH</text>
+    <rect x="252" width="102" height="30" rx="15" fill="#29142F" stroke="#8D45B1" stroke-width="1"/>
+    <text x="269" y="20" fill="#D992FF" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">RESEARCH</text>
 
-    <rect x="434" width="96" height="30" rx="15" fill="#33111F" stroke="#8D2C59" stroke-width="1"/>
-    <text x="450" y="20" fill="#FFA4DA" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">SHIPPING</text>
+    <rect x="368" width="96" height="30" rx="15" fill="#33111F" stroke="#8D2C59" stroke-width="1"/>
+    <text x="386" y="20" fill="#FFA4DA" style="font: 600 12px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.8px;">SHIPPING</text>
   </g>
 
   <!-- Right side: subtle terminal/code aesthetic -->
   <g transform="translate(820, 130)">
-    <text y="0" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">$ context-engineer --agents 32 --eval strict</text>
-    <text y="22" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ taxonomy loaded: 5 layers</text>
-    <text y="44" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ orchestration: planner → critic → exec</text>
-    <text y="66" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ feedback loop: <tspan fill="#FF63D4" opacity="1">active</tspan></text>
-    <text y="88" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ shipped: <tspan fill="#D992FF" opacity="1">10+ prototypes</tspan></text>
+    <text y="0" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">$ ai&amp;data-engineer --agents 32 --eval strict</text>
+    <text y="22" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ applied-research: 5 studies</text>
+    <text y="44" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ leading: architecrute → development → product</text>
+    <text y="66" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ shipped: <tspan fill="#FF63D4" opacity="1">10+ prototypes</tspan></text>
+    <text y="88" fill="#8D5A87" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ time-elapsed: <tspan fill="#D992FF" opacity="1">24-48h</tspan></text>
   </g>
 
   <!-- Bottom edge fade -->
