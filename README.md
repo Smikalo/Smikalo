@@ -30,7 +30,7 @@ I research **optimization**, **orchestration**, **environment**, **memory** and 
 
 ---
 
-## 🔍 Research Interests:
+## 🔍 Research Interests
   1. Multi-agent system optimization — architecture, evaluation, performance
   2. Context & environment engineering for AI coding agents — configs, memory, orchestration
   3. Prompt analysis & refinement — pattern recognition, quality metrics, debugging
