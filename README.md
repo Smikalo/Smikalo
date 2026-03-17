@@ -13,6 +13,8 @@
 
 ---
 
+## `$ whoami`
+
 I build and study **AI agents** and **multi-agent systems** — from production AI pipelines for Fortune 500 companies to research on how to optimize agents use context, memory, and orchestration.
 
 - 🔬 **Applied Research Intern @ JetBrains Research** — studying context engineering for AI coding agents (Claude Code, Cursor, Copilot). Large-scale repo mining, embedding-based clustering, LLM-assisted pattern extraction.
@@ -21,8 +23,9 @@ I build and study **AI agents** and **multi-agent systems** — from production 
 - 🚀 **Founded [PUM](https://the-pum.com)** — 50+ member builder collective, 15+ international hackathons, 10+ shipped prototypes under 24–48h constraints.
 - 🎓 **B.Sc. Computer Science @ TUM** — 5th semester, 149 ECTS (125% of recommended pace).
 
+---
 
-## Research interests:
+## 🔍 Research interests:
   1. Multi-agent system optimization — architecture, evaluation, performance
   2. Context & environment engineering for AI coding agents — configs, memory, orchestration
   3. Prompt analysis & refinement — pattern recognition, quality metrics, debugging
@@ -31,17 +34,15 @@ I build and study **AI agents** and **multi-agent systems** — from production 
 
 ## 🏆 Hackathon Track Record
 
-```
-
-15+ international hackathons  ·  10+ shipped systems  ·  50+ team members
-
-```
+**`15+ international hackathons  ·  10+ shipped systems  ·  50+ team members `**
 
 Built systems across:
 - multi-agent RAG platforms  
 - real-time data + ML pipelines  
 - accessibility & navigation  
-- developer productivity tools  
+- developer productivity tools
+
+Won at hackathons, datathons and ideathons with international teams as teamlead, main ML engineer and solution architect. Founded a hackathon organization.
 
 👉 Full portfolio: https://devpost.com/smrtkozyrev
 
