@@ -68,7 +68,7 @@
   <text x="80" y="160" fill="url(#nameGrad)" filter="url(#textShadow)" style="font: 700 56px 'Segoe UI', system-ui, -apple-system, sans-serif; letter-spacing: -1.5px;">Mykhailo Kozyrev</text>
 
   <!-- Role line -->
-  <text x="82" y="210" fill="#8B949E" style="font: 500 18px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.5px;">Data &amp; AI Engineer · Applied Researcher · Builder</text>
+  <text x="82" y="210" fill="#8B949E" style="font: 500 18px 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.5px;">Data &amp; AI Engineer · Applied Researcher · Founder</text>
 
   <!-- Keyword chips -->
   <g transform="translate(80, 240)">
@@ -86,7 +86,7 @@
   </g>
 
   <!-- Right side: subtle terminal/code aesthetic -->
-  <g transform="translate(820, 130)" opacity="0.35">
+  <g transform="translate(820, 130)">
     <text y="0" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">$ context-engineer --agents 32 --eval strict</text>
     <text y="22" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ taxonomy loaded: 5 layers</text>
     <text y="44" fill="#484F58" style="font: 400 13px 'Cascadia Code', 'Fira Code', monospace;">  ↳ orchestration: planner → critic → exec</text>
