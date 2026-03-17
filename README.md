@@ -59,20 +59,7 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 
 ## 🛠️ Tools I use
 
-### 👨‍💻 Languages
-
-<p>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
-</p>
+###  Languages
 
 ### 🤖 AI / ML
 
@@ -124,18 +111,20 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 ### Tech Stack
 
 <details>
-<summary><b>Languages & Core</b></summary>
+<summary><b>👨‍💻 Languages</b></summary>
 <br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+<p>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASmikalo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
+</p>
 
 </details>
 
@@ -293,24 +282,6 @@ I am especially interested in:
 
 ---
 
-
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Python · TypeScript · C/C++ · Java · SQL · R · PHP · Swift  
-
-### AI / ML
-LangGraph · LangChain · PyTorch · Azure OpenAI · MLflow  
-Databricks · FAISS · Chroma  
-
-### Systems & Infra
-Docker · Kubernetes · CI/CD (GitHub Actions) · gRPC · Azure  
-
-### Frameworks
-React · Node.js · FastAPI · Flask · Laravel · Flutter  
 
 ---
 
