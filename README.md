@@ -29,6 +29,22 @@ I build and study **AI agents** and **multi-agent systems** — from production 
 
 ---
 
+## 🏆 Hackathon Track Record
+
+```
+
+15+ international hackathons  ·  10+ shipped systems  ·  50+ team members
+
+```
+
+Built systems across:
+- multi-agent RAG platforms  
+- real-time data + ML pipelines  
+- accessibility & navigation  
+- developer productivity tools  
+
+👉 Full portfolio: https://devpost.com/smrtkozyrev
+
 ## 🏆 Hackathons & community
 
 ```
@@ -159,41 +175,6 @@ I enjoy high-intensity environments where good systems thinking matters — espe
 
 
 
-
-<p align="center">
-  <strong>Data &amp; AI Software Engineer • Incoming JetBrains Research Intern • B.Sc. CS @ TUM</strong>
-</p>
-
-<p align="center">
-  I build <strong>reliable multi-agent systems</strong> and study how they behave in practice —
-  from production LLM workflows and evaluation pipelines to research on <strong>context engineering</strong>,
-  prompt design, and agent orchestration.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://devpost.com/smrtkozyrev"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
-  <a href="https://the-pum.com/"><img src="https://img.shields.io/badge/PUM-Project_of_United_Minds-111111?style=for-the-badge" alt="PUM" /></a>
-  <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Smikalo?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Smikalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="GitHub followers" /></a>
-  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Smikalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="GitHub stars" /></a>
-</p>
-
----
-
-## What I do
-
-- **Build production AI systems** with multi-agent orchestration, retrieval, evaluation, and CI/CD around non-deterministic outputs.
-- **Research context engineering** for AI coding agents: configs, memory, orchestration patterns, and prompt design quality.
-- **Ship fast under constraints** through hackathons, prototypes, and builder-led teams.
-
-```text
-Agents • Context Engineering • Prompt Optimization • RAG • Evaluation • AI Infrastructure
-```
-
 ## Writing & research
 
 ### Agentic Systems Optimization — TUM seminar paper
@@ -238,110 +219,6 @@ I am especially interested in:
 - Comfortable leading engineering in 24–48h build cycles
 - Bias toward turning systems ideas into working products quickly
 
----
-
-## Core stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,php,swift,react,nodejs,fastapi,flask,docker,kubernetes,git,github,postgres,mysql,azure" alt="Core technologies" />
-</p>
-
-**Also working with:** LangGraph, LangChain, PyTorch, scikit-learn, Databricks, MLflow, Azure OpenAI, FAISS, Chroma, GitHub Actions, gRPC.
-
----
-
-## Hackathons, building, and community
-
-```text
-15+ international hackathons • 10+ prototypes shipped • 50+ builders in PUM
-```
-
-My public Devpost portfolio captures shipped projects across AI, developer tools, healthcare, accessibility, mobility, and data-heavy systems.
-
-<p>
-  <a href="https://devpost.com/smrtkozyrev"><img alt="See Devpost portfolio" src="https://custom-icon-badges.demolab.com/badge/-See%20Projects%20on%20Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
-</p>
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Smikalo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" alt="Top languages" />
-</p>
-
-<p align="center">
-  <sub>Top languages reflect public repository composition, not a ranking of experience.</sub>
-</p>
-
----
-
-## Let’s connect
-
-I’m especially interested in:
-- AI engineering and agent systems roles
-- research collaborations around agent evaluation and context engineering
-- strong startup teams shipping with urgency
-- hackathons, demos, and weird ambitious builds
-
-<p>
-  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> •
-  <a href="https://github.com/Smikalo">GitHub</a> •
-  <a href="https://devpost.com/smrtkozyrev">Devpost</a> •
-  <a href="https://the-pum.com/">PUM</a> •
-  <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
-</p>
-
-
-
-
-<p align="center">
-  <a href="https://github.com/Smikalo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I%27m+Mykhailo+Kozyrev;Systems+%C2%B7+Agents+%C2%B7+Research" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Data &amp; AI Engineer • Multi-Agent Systems • Context Engineering • B.Sc. CS @ TUM</strong>
-</p>
-
-<p align="center">
-  I build and study <strong>multi-agent systems</strong> — from enterprise AI pipelines and evaluation workflows
-  to research on how coding agents use context, memory, and orchestration.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mykhailo-kozyrev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://devpost.com/smrtkozyrev"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
-  <a href="https://the-pum.com/"><img src="https://img.shields.io/badge/PUM-Project_of_United_Minds-111111?style=for-the-badge" alt="PUM" /></a>
-  <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Smikalo?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Smikalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="GitHub followers" /></a>
-  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Smikalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="GitHub stars" /></a>
-</p>
-
----
-
-## About me
-
-- 🎓 **B.Sc. Computer Science @ Technical University of Munich (TUM)**
-- 🧠 **Data &amp; AI Software Engineer @ KI performance GmbH** — building production-grade LLM systems, evaluation pipelines, and data workflows
-- 🔬 **Research focus:** context engineering, prompt refinement, agent evaluation, and multi-agent orchestration
-- 🚀 **Founder of [PUM](https://the-pum.com/)** — a TUM builder collective shipping hackathon prototypes, MVPs, and research demos
-- 🌍 Based in **Munich, Germany**
-
-### What I work on
-
-```text
-Prompt analysis & refinement
-Context engineering for AI coding agents
-Multi-agent system optimization and evaluation
-RAG pipelines, tool orchestration, and AI infra
-Systems-first prototyping under real constraints
-````
 
 ### A bit more context
 
@@ -352,175 +229,7 @@ Systems-first prototyping under real constraints
 
 ---
 
-## Featured work
 
-<p align="left">
-  <a href="https://github.com/Smikalo/jetbrains-multiagentic-systems-internship"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=jetbrains-multiagentic-systems-internship&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="jetbrains-multiagentic-systems-internship" /></a>
-  <a href="https://github.com/Smikalo/med.ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=med.ai&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="med.ai" /></a>
-  <a href="https://github.com/Smikalo/Hack-HPI-H417"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=Hack-HPI-H417&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hack-HPI-H417" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/Smikalo/se4ai-seminar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=se4ai-seminar&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="se4ai-seminar" /></a>
-  <a href="https://github.com/Smikalo/pum-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=pum-website&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="pum-website" /></a>
-</p>
-
-### Project highlights
-
-| Project                                                                                                           | What it is                                                                       | Stack                                                        |
-| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [jetbrains-multiagentic-systems-internship](https://github.com/Smikalo/jetbrains-multiagentic-systems-internship) | Research repo on context and prompt optimization for multi-agent coding systems  | Python, embeddings, prompt optimization, context engineering |
-| [med.ai](https://github.com/Smikalo/med.ai)                                                                       | Self-checking multi-agent RAG system for pharmaceutical knowledge bases          | Python, multi-agent systems, RAG                             |
-| [Hack-HPI-H417](https://github.com/Smikalo/Hack-HPI-H417)                                                         | Real-time road danger prediction using computer vision and graph neural networks | Python, CV, GNN, real-time inference                         |
-| [se4ai-seminar](https://github.com/Smikalo/se4ai-seminar)                                                         | Scripts and experiments around agentic systems optimization research at TUM      | Python, benchmarking, evaluation                             |
-| [pum-website](https://github.com/Smikalo/pum-website)                                                             | Main website repo for PUM — Project of United Minds                              | TypeScript, Next.js, React                                   |
-
-<p align="left">
-  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img alt="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Browse%20All%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo" /></a>
-</p>
-
----
-
-## Research & engineering interests
-
-```text
-LLM evaluation • Prompt engineering • Context engineering • Multi-agent systems
-RAG pipelines • Tool orchestration • Data/ML systems • CI/CD for AI apps
-```
-
-## Hackathons & community
-
-```text
-15+ international hackathons • 10+ prototypes shipped • 50+ members in PUM
-```
-
-I enjoy high-intensity build environments where strong systems thinking matters — especially hackathons,
-research-driven prototyping, and interdisciplinary teams going from idea to demo fast.
-
-<p>
-  <a href="https://devpost.com/smrtkozyrev"><img alt="Devpost portfolio" src="https://custom-icon-badges.demolab.com/badge/-See%20Projects%20on%20Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
-</p>
-
----
-
-## Tech I work with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,php,swift,react,nodejs,fastapi,flask,docker,kubernetes,git,github,postgres,mysql,azure" alt="Tech stack icons" />
-</p>
-
-**Also using regularly:** LangGraph, LangChain, PyTorch, scikit-learn, Databricks, MLflow, Azure OpenAI, FAISS, Chroma, gRPC, GitHub Actions.
-
----
-
-## Languages
-
-**English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)**
-
----
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> •
-  <a href="https://devpost.com/smrtkozyrev">Devpost</a> •
-  <a href="https://github.com/Smikalo">GitHub</a> •
-  <a href="https://the-pum.com/">PUM</a> •
-  <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
-</p>
-
-<!-- Optional add-ons for a future pass:
-- animated SVG architecture diagram
-- live "currently building" section
-- publications / writing section
-- recruiter-specific startup/research variant
--->
-
-
-<p align="center">
-  <a href="https://github.com/Smikalo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mykhailo+Kozyrev;Systems+%C2%B7+Agents+%C2%B7+Research" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Data & AI Software Engineer • Applied Research in Multi-Agent Systems • B.Sc. CS @ TUM</strong>
-</p>
-
-<p align="center">
-  I build and study <b>multi-agent systems</b> — from production AI pipelines for Fortune 500 companies  
-  to research on <b>context engineering</b> and LLM behavior.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mykhailo-kozyrev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://devpost.com/smrtkozyrev"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-  <a href="https://the-pum.com"><img src="https://img.shields.io/badge/PUM-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 🧠 About Me
-
-- 🔬 **Applied Research Intern @ JetBrains Research**  
-  → studying **context engineering for AI coding agents** (Claude Code, Cursor, Copilot)  
-  → large-scale repo mining, embeddings, pattern extraction  
-
-- 🏗️ **Data & AI Software Engineer @ KI performance (Working Student)**  
-  → built **multi-agent LLM systems** for Microsoft, Lufthansa, Mercedes-Benz, DHL  
-  → LangGraph orchestration, Azure pipelines, CI/CD for non-deterministic AI  
-
-- 📄 **Research:** systematic literature review on **agentic systems optimization**  
-  → 5-layer taxonomy across 32 studies (reasoning, memory, orchestration, infra, governance)
-
-- 🚀 **Founder of PUM (Project of United Minds)**  
-  → 50+ builders · 15+ hackathons · 10+ shipped systems in 24–48h  
-
-- 🎓 **B.Sc. Computer Science @ TUM**  
-  → 149 ECTS (125% pace)
-
----
-
-## 🔬 Research Interests
-
-```
-
-• Prompt analysis & evaluation for LLM systems
-• Context engineering (memory, configs, orchestration)
-• Multi-agent system design & optimization
-• Reliable + measurable AI systems in production
-
-```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|------------|------|
-| 🧠 [jetbrains-multiagentic-systems-internship](https://github.com/Smikalo/jetbrains-multiagentic-systems-internship) | Research on context engineering for AI coding agents | Python, embeddings, LLM |
-| 💊 [med.ai](https://github.com/Smikalo/med.ai) | Hallucination-resistant multi-agent RAG system | Python, LangGraph |
-| 🚗 [Hack-HPI-H417](https://github.com/Smikalo/Hack-HPI-H417) | Real-time accident prediction using CV + GNN | Python, CV, GNN |
-| 📝 [se4ai-seminar](https://github.com/Smikalo/se4ai-seminar) | Benchmarking + evaluation for agentic systems | Python |
-| 🌐 [pum-website](https://github.com/Smikalo/pum-website) | Website for hackathon organization PUM | TypeScript, Next.js |
-
----
-
-## 🏆 Hackathon Track Record
-
-```
-
-15+ international hackathons  ·  10+ shipped systems  ·  50+ team members
-
-```
-
-Built systems across:
-- multi-agent RAG platforms  
-- real-time data + ML pipelines  
-- accessibility & navigation  
-- developer productivity tools  
-
-👉 Full portfolio: https://devpost.com/smrtkozyrev
 
 ---
 
