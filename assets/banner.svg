@@ -1,0 +1,118 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mykhailo Kozyrev — multi-agent systems architecture banner</title>
+  <desc id="desc">A dark themed architecture diagram showing data sources, context layer, orchestration, specialist agents, and evaluation loops for an AI agent system.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="76" x2="1210" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#7EE787"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10V0Z" fill="#58A6FF"/>
+    </marker>
+    <style>
+      .title { font: 700 34px 'Segoe UI', Inter, Arial, sans-serif; fill: #F0F6FC; }
+      .subtitle { font: 500 16px 'Segoe UI', Inter, Arial, sans-serif; fill: #94A3B8; }
+      .section { font: 700 18px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; }
+      .label { font: 600 15px 'Segoe UI', Inter, Arial, sans-serif; fill: #E6EDF3; }
+      .small { font: 500 13px 'Segoe UI', Inter, Arial, sans-serif; fill: #9FB0C3; }
+      .chip { font: 700 12px 'Segoe UI', Inter, Arial, sans-serif; fill: #DCEBFF; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1140" cy="70" r="140" fill="#58A6FF" opacity="0.08" filter="url(#glow)"/>
+  <circle cx="140" cy="350" r="120" fill="#7EE787" opacity="0.06" filter="url(#glow)"/>
+
+  <text x="70" y="76" class="title">Mykhailo Kozyrev</text>
+  <text x="70" y="104" class="subtitle">Multi-Agent Systems • Context Engineering • AI Infrastructure • Research + Shipping</text>
+
+  <rect x="70" y="130" width="165" height="28" rx="14" fill="#132238" stroke="#223B5B"/>
+  <text x="94" y="149" class="chip">research-minded</text>
+  <rect x="246" y="130" width="145" height="28" rx="14" fill="#14291E" stroke="#28523A"/>
+  <text x="270" y="149" class="chip">production-ready</text>
+  <rect x="402" y="130" width="138" height="28" rx="14" fill="#2A1E10" stroke="#5A4322"/>
+  <text x="427" y="149" class="chip">builder speed</text>
+
+  <!-- Cards -->
+  <g filter="url(#shadow)">
+    <rect x="70" y="188" width="200" height="150" rx="22" fill="#111827" stroke="#23304A"/>
+    <rect x="314" y="188" width="230" height="150" rx="22" fill="#111827" stroke="#23304A"/>
+    <rect x="588" y="168" width="214" height="190" rx="24" fill="#0F172A" stroke="#315C92"/>
+    <rect x="846" y="188" width="200" height="150" rx="22" fill="#111827" stroke="#23304A"/>
+    <rect x="1090" y="188" width="120" height="150" rx="22" fill="#111827" stroke="#23304A"/>
+  </g>
+
+  <!-- Headers -->
+  <text x="94" y="220" class="section">Signals in</text>
+  <text x="338" y="220" class="section">Context layer</text>
+  <text x="620" y="202" class="section">Agent graph</text>
+  <text x="870" y="220" class="section">Specialists</text>
+  <text x="1112" y="220" class="section">Eval</text>
+
+  <!-- Left card content -->
+  <rect x="94" y="237" width="148" height="28" rx="14" fill="#172235"/>
+  <text x="113" y="255" class="label">docs • APIs • code</text>
+  <rect x="94" y="273" width="128" height="28" rx="14" fill="#172235"/>
+  <text x="113" y="291" class="label">logs • feedback</text>
+  <rect x="94" y="309" width="100" height="28" rx="14" fill="#172235"/>
+  <text x="113" y="327" class="label">metrics</text>
+
+  <!-- Context card -->
+  <rect x="338" y="237" width="180" height="28" rx="14" fill="#172235"/>
+  <text x="357" y="255" class="label">retrieval + memory</text>
+  <rect x="338" y="273" width="156" height="28" rx="14" fill="#172235"/>
+  <text x="357" y="291" class="label">prompt shaping</text>
+  <rect x="338" y="309" width="180" height="28" rx="14" fill="#172235"/>
+  <text x="357" y="327" class="label">state + routing hints</text>
+
+  <!-- Center card -->
+  <rect x="618" y="222" width="152" height="34" rx="17" fill="#12233A" stroke="#2D5E95"/>
+  <text x="648" y="244" class="label">planner</text>
+  <rect x="618" y="266" width="152" height="34" rx="17" fill="#12233A" stroke="#2D5E95"/>
+  <text x="648" y="288" class="label">critic</text>
+  <rect x="618" y="310" width="152" height="34" rx="17" fill="#12233A" stroke="#2D5E95"/>
+  <text x="645" y="332" class="label">executor</text>
+  <text x="621" y="352" class="small">stateful orchestration • tools • reliability loops</text>
+
+  <!-- Specialists -->
+  <rect x="870" y="237" width="150" height="28" rx="14" fill="#172235"/>
+  <text x="890" y="255" class="label">RAG / search</text>
+  <rect x="870" y="273" width="150" height="28" rx="14" fill="#172235"/>
+  <text x="890" y="291" class="label">code / SQL / APIs</text>
+  <rect x="870" y="309" width="150" height="28" rx="14" fill="#172235"/>
+  <text x="890" y="327" class="label">vision / analysis</text>
+
+  <!-- Eval -->
+  <rect x="1112" y="237" width="76" height="28" rx="14" fill="#172235"/>
+  <text x="1125" y="255" class="label">tests</text>
+  <rect x="1112" y="273" width="76" height="28" rx="14" fill="#172235"/>
+  <text x="1120" y="291" class="label">traces</text>
+  <rect x="1112" y="309" width="76" height="28" rx="14" fill="#172235"/>
+  <text x="1123" y="327" class="label">MLflow</text>
+
+  <!-- Arrows -->
+  <path d="M270 263C288 263 292 263 314 263" stroke="#58A6FF" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <path d="M544 263C562 263 566 254 588 254" stroke="#58A6FF" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <path d="M802 263C820 263 824 263 846 263" stroke="#58A6FF" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <path d="M1046 263C1064 263 1068 263 1090 263" stroke="#58A6FF" stroke-width="3.5" marker-end="url(#arrow)"/>
+
+  <!-- feedback arrows -->
+  <path d="M1150 338C1118 395 976 406 830 392C706 380 620 383 534 390C390 402 255 392 182 347" stroke="url(#accent)" stroke-width="3" stroke-dasharray="10 10" fill="none" marker-end="url(#arrow)"/>
+  <text x="700" y="404" class="small">evaluation + feedback loop → better prompts, routing, and context quality</text>
+</svg>
