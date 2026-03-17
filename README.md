@@ -22,10 +22,10 @@ I research **optimization**, **orchestration**, **environment**, **memory** and 
 
 ## 💼 Portfolio
 
-- 🔬 **Applied Research Intern @ JetBrains Research** — studying context engineering for AI coding agents (Claude Code, Cursor, Copilot). Large-scale repo mining, embedding-based clustering, LLM-assisted pattern extraction.
-- 🏗️ **Data & AI Software Engineer @ KI performance** — shipped multi-agent LLM systems for Microsoft, Lufthansa, Mercedes-Benz, DHL. LangGraph orchestration on Azure. Certified: Azure AI Engineer, Azure Developer, Databricks Developer.
-- 📄 **Published** a systematic literature review on agentic systems optimization — five-layer taxonomy across 32 primary studies.
-- 🚀 **Founded [PUM](https://the-pum.com)** — 50+ member builder collective, 15+ international hackathons, 10+ shipped prototypes under 24–48h constraints.
+- 🔬 **Applied Research Intern @ JetBrains Research** — studying context engineering for AI coding agents (Claude Code, Cursor, Copilot). Large-scale repo mining, embedding-based clustering, LLM-assisted pattern extraction
+- 🏗️ **Data & AI Software Engineer @ KI performance** — shipped multi-agent LLM systems for Microsoft, Lufthansa, Mercedes-Benz, DHL. LangGraph orchestration on Azure. Certified: Azure AI Engineer, Azure Developer, Databricks Developer
+- 📄 **Published** a systematic literature review on agentic systems optimization — five-layer taxonomy across 32 primary studies
+- 🚀 **Founded [PUM](https://the-pum.com)** — 50+ member builder collective, 15+ international hackathons, 10+ shipped prototypes under 24–48h constraints
 - 🎓 **B.Sc. Computer Science @ TUM** — 5th semester, 149 ECTS (125% of recommended pace).
 
 ---
