@@ -7,9 +7,6 @@
   <a href="https://devpost.com/smrtkozyrev"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
   <a href="https://the-pum.com"><img src="https://img.shields.io/badge/PUM-Project_of_United_Minds-111111?style=for-the-badge" alt="PUM" /></a>
   <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Smikalo?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Smikalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow" /></a>
   <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Smikalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="Stars" /></a>
 </p>
@@ -24,36 +21,11 @@ I build and study **multi-agent systems** — from production AI pipelines for F
 - 🚀 **Founded [PUM](https://the-pum.com)** — 50+ member builder collective, 15+ international hackathons, 10+ shipped prototypes under 24–48h constraints.
 - 🎓 **B.Sc. Computer Science @ TUM** — 5th semester, 149 ECTS (125% of recommended pace).
 
-```
-Research interests:
+
+## Research interests:
   1. Prompt analysis & refinement — pattern recognition, quality metrics, debugging
   2. Context engineering for AI coding agents — configs, memory, orchestration
   3. Multi-agent system optimization — architecture, evaluation, developer productivity
-```
-
----
-
-## 📘 Featured projects
-
-<p align="left">
-  <a href="https://github.com/Smikalo/jetbrains-multiagentic-systems-internship"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=jetbrains-multiagentic-systems-internship&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="jetbrains-multiagentic-systems-internship" /></a>
-  <a href="https://github.com/Smikalo/med.ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=med.ai&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="med.ai" /></a>
-  <a href="https://github.com/Smikalo/Hack-HPI-H417"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=Hack-HPI-H417&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hack-HPI-H417" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/Smikalo/se4ai-seminar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=se4ai-seminar&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="se4ai-seminar" /></a>
-  <a href="https://github.com/Smikalo/pum-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=pum-website&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="pum-website" /></a>
-</p>
-
-| Project | Description | Stack |
-|:--------|:-----------|:------|
-| **[jetbrains-multiagentic-systems-internship](https://github.com/Smikalo/jetbrains-multiagentic-systems-internship)** | Research on context & prompt optimization for multi-agent coding systems | Python, embeddings, LLM |
-| **[med.ai](https://github.com/Smikalo/med.ai)** | Self-checking multi-agent RAG for pharmaceutical knowledge bases | Python, LangGraph, RAG |
-| **[Hack-HPI-H417](https://github.com/Smikalo/Hack-HPI-H417)** | Real-time road danger prediction via GNN on traffic camera streams | Python, CV, GNN |
-| **[se4ai-seminar](https://github.com/Smikalo/se4ai-seminar)** | Benchmarking scripts for agentic systems optimization research | Python, evaluation |
-| **[pum-website](https://github.com/Smikalo/pum-website)** | Website for PUM — [the-pum.com](https://the-pum.com) | TypeScript, Next.js |
-
-<a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Browse%20All%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo" /></a>
 
 ---
 
@@ -133,18 +105,15 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 ## 📊 Activity
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="Streak stats" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&theme=modern-lilac2&hide_border=true&short_numbers=true" alt="Streak stats" /></a>
 </p>
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Smikalo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px" />
-</p>
-
-<p align="center"><sub>Top languages reflects public repo composition, not experience level.</sub></p>
 
 <p align="center">
   <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px" />
 </p>
 
 ---
