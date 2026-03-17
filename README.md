@@ -109,14 +109,28 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 </p>
 
 <p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px" />
 </p>
 
+<p align="center">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" />
+</p>
+
 ---
+
+
+## Beyond code
+
+I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary builds that need to go from idea to demo fast.
+
+## Let’s connect
+
+<p>
+  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> •
+  <a href="https://devpost.com/smrtkozyrev">Devpost</a> •
+  <a href="https://the-pum.com/">PUM</a> •
+  <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
+</p>
 
 <p align="center">
   <strong>English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)</strong><br/>
@@ -126,6 +140,40 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 <p align="center">
   <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> · <a href="https://devpost.com/smrtkozyrev">Devpost</a> · <a href="https://the-pum.com/">PUM</a> · <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Mykhailo Kozyrev — multi-agent systems architecture banner" width="100%" />
@@ -911,43 +959,3 @@ Projects span real-time big-data processing, multi-agent RAG platforms, accessib
 LLM evaluation • Prompt engineering • Context engineering • Multi-agent systems
 RAG pipelines • Tool orchestration • Data/ML systems • CI/CD for AI apps
 ````
-
-## Tech I work with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,php,swift,react,nodejs,fastapi,flask,docker,kubernetes,git,github,mysql,postgres,azure" alt="Tech stack icons" />
-</p>
-
-**Also frequently using:** LangGraph, LangChain, PyTorch, scikit-learn, MLflow, Databricks, Azure OpenAI, FAISS, Chroma, gRPC, GitHub Actions.
-
-## Current priorities
-
-* Building better **context management patterns** for AI coding agents
-* Making **multi-agent systems more reliable, measurable, and production-ready**
-* Turning research ideas into **working software under real constraints**
-
-## Beyond code
-
-I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary builds that need to go from idea to demo fast.
-
-## Let’s connect
-
-I’m always happy to connect around:
-
-* multi-agent systems
-* LLM product engineering
-* research collaborations
-* hackathons and fast prototyping
-
-<p>
-  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> •
-  <a href="https://devpost.com/smrtkozyrev">Devpost</a> •
-  <a href="https://the-pum.com/">PUM</a> •
-  <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
-</p>
-
-<!-- Optional: if you later want dynamic widgets, these are good additions without clutter.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smikalo&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
--->
