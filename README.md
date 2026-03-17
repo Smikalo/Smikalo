@@ -45,16 +45,6 @@ Built systems across:
 
 👉 Full portfolio: https://devpost.com/smrtkozyrev
 
-## 🏆 Hackathons & community
-
-```
-15+ international hackathons  ·  10+ shipped prototypes  ·  50+ builders in PUM
-```
-
-Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibility-first navigation, gamified developer tools, and prediction markets.
-
-<a href="https://devpost.com/smrtkozyrev"><img alt="Devpost Portfolio" src="https://custom-icon-badges.demolab.com/badge/-See%20All%20Projects%20on%20Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -131,8 +121,7 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 
 ---
 
-
-## Beyond code
+## 🏄 Beyond code
 
 I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary research-heavy builds that need to go from idea to demo fast.
 
@@ -142,99 +131,3 @@ I enjoy high-intensity environments where good systems thinking matters — espe
   <strong>Let’s connect!</strong><br/>
   <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> · <a href="https://devpost.com/smrtkozyrev">Devpost</a> · <a href="https://the-pum.com/">PUM</a> · <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Writing & research
-
-### Agentic Systems Optimization — TUM seminar paper
-A systematic literature review of **32 primary studies** on optimizing LLM-based agentic systems.
-
-**Core output:** a five-layer taxonomy covering:
-1. reasoning strategies  
-2. tools & memory  
-3. multi-agent orchestration  
-4. hardware / systems efficiency  
-5. governance / control
-
-**Why this matters:** I care about agent systems not just as demos, but as systems that can be compared, evaluated, and improved rigorously.
-
-### Current research direction
-**Context engineering for AI coding agents**
-
-I am especially interested in:
-- configuration patterns for agent behavior
-- memory systems and context window strategy
-- prompt structure quality and failure analysis
-- orchestration patterns that improve developer productivity
-
-> I like work that turns vague “agent magic” into something inspectable, testable, and architecturally sound.
-
----
-
-## Experience highlights
-
-### KI performance — Data & AI Software Engineer
-- Built multi-agent LLM systems with orchestration, tool execution, and automated evaluation
-- Worked with Azure, Databricks, MLflow, and CI/CD around production AI workflows
-- Contributed to client work involving organizations such as Microsoft, Lufthansa, Mercedes-Benz, and DHL
-
-### JetBrains Research — incoming Applied Research Intern
-- Researching best practices in context engineering for multi-agent systems
-- Interested in how coding agents use configs and context management in the wild
-- Exploring repository mining, clustering, and pattern extraction approaches
-
-### PUM — Project of United Minds
-- Built and led a fast-moving builder collective around hackathons, prototypes, and research demos
-- Comfortable leading engineering in 24–48h build cycles
-- Bias toward turning systems ideas into working products quickly
-
-
-### A bit more context
-
-* At **KI performance**, I work on multi-agent LLM systems, prompt iteration, automated evaluation of non-deterministic outputs, and Azure/Databricks-based data pipelines.
-* In my latest CV, I also describe an **incoming/applied research track with JetBrains Research** around best practices in context engineering for multi-agent coding systems.
-* I authored a **systematic literature review on agentic systems optimization**, building a five-layer taxonomy across 32 primary studies.
-* Through **PUM** and hackathons, I have led teams shipping fast prototypes across AI, healthcare, developer tools, accessibility, mobility, and data-heavy systems.
-
----
-
-
----
-
-## ⚙️ What I Care About
-
-- Making **AI systems reliable, testable, and measurable**
-- Turning research into **real production systems**
-- Designing **clean system architectures for agents**
-- Building fast under constraints (**hackathons → real products**)
