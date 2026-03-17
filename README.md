@@ -117,12 +117,12 @@ Won at hackathons, datathons and ideathons with international teams as teamlead,
 ## 📊 Activity
 
 <p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=12040F&color=FFE6FB&line=FF4FCF&point=C85BFF&hide_border=true" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&theme=modern-lilac2&hide_border=true&short_numbers=true" alt="Streak stats" /></a>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&hide_border=true&short_numbers=true&background=12040F&stroke=2B0831&ring=FF4FCF&fire=FF93DD&currStreakNum=FFE6FB&sideNums=D992FF&currStreakLabel=FFB3EF&sideLabels=C89BBE&dates=8D5A87" alt="Streak stats" /></a>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&hide_border=true&bg_color=12040F&title_color=FFB3EF&text_color=FFE6FB&icon_color=C85BFF" height="192px" />
 </div>
 
 ---
