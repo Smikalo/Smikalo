@@ -14,8 +14,13 @@
 ---
 
 ## `$ whoami`
+I am the one, who can **make your AI better**.
 
-I build and study **AI agents** and **multi-agent systems** — from production AI pipelines for Fortune 500 companies to research on how to optimize agents use context, memory, and orchestration.
+I research **optimization**, **orchestration**, **environment**, **memory** and **context use** in **AI agents** and **multi-agent systems** and lead teams to build impressive products for **Fortune 500** companies and startups.
+
+---
+
+## 💼 Portfolio
 
 - 🔬 **Applied Research Intern @ JetBrains Research** — studying context engineering for AI coding agents (Claude Code, Cursor, Copilot). Large-scale repo mining, embedding-based clustering, LLM-assisted pattern extraction.
 - 🏗️ **Data & AI Software Engineer @ KI performance** — shipped multi-agent LLM systems for Microsoft, Lufthansa, Mercedes-Benz, DHL. LangGraph orchestration on Azure. Certified: Azure AI Engineer, Azure Developer, Databricks Developer.
@@ -25,7 +30,7 @@ I build and study **AI agents** and **multi-agent systems** — from production 
 
 ---
 
-## 🔍 Research interests:
+## 🔍 Research Interests:
   1. Multi-agent system optimization — architecture, evaluation, performance
   2. Context & environment engineering for AI coding agents — configs, memory, orchestration
   3. Prompt analysis & refinement — pattern recognition, quality metrics, debugging
@@ -50,6 +55,32 @@ Won at hackathons, datathons and ideathons with international teams as teamlead,
 
 ## 🛠️ Tech Stack
 
+### 🤖 AI / ML
+
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white">
+  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure%20OpenAI-0078D4.svg?logo=microsoftazure&logoColor=white">
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white">
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
+  <img alt="FAISS" src="https://custom-icon-badges.demolab.com/badge/FAISS-3B5998.svg?logo=meta&logoColor=white">
+  <img alt="ChromaDB" src="https://custom-icon-badges.demolab.com/badge/ChromaDB-4A154B.svg?logo=database&logoColor=white">
+</p>
+
+### 🗄️ Data & Cloud
+
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="CosmosDB" src="https://custom-icon-badges.demolab.com/badge/CosmosDB-0078D4.svg?logo=microsoftazure&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
+</p>
+
 ### 👨‍💻 Languages
 
 <p>
@@ -65,21 +96,7 @@ Won at hackathons, datathons and ideathons with international teams as teamlead,
   <a href="https://github.com/search?q=user%3ASmikalo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
 </p>
 
-### 🤖 AI / ML
-
-<p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white">
-  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure%20OpenAI-0078D4.svg?logo=microsoftazure&logoColor=white">
-  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white">
-  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
-  <img alt="FAISS" src="https://custom-icon-badges.demolab.com/badge/FAISS-3B5998.svg?logo=meta&logoColor=white">
-  <img alt="ChromaDB" src="https://custom-icon-badges.demolab.com/badge/ChromaDB-4A154B.svg?logo=database&logoColor=white">
-</p>
-
-### 🧰 Frameworks & infrastructure
+### 🧰 Frameworks & Infrastructure
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
@@ -93,18 +110,6 @@ Won at hackathons, datathons and ideathons with international teams as teamlead,
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
   <img alt="gRPC" src="https://custom-icon-badges.demolab.com/badge/gRPC-244c5a.svg?logo=google&logoColor=white">
-</p>
-
-### 🗄️ Data & cloud
-
-<p>
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="CosmosDB" src="https://custom-icon-badges.demolab.com/badge/CosmosDB-0078D4.svg?logo=microsoftazure&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
 </p>
 
 ---
@@ -122,7 +127,7 @@ Won at hackathons, datathons and ideathons with international teams as teamlead,
 
 ---
 
-## 🏄 Beyond code
+## 🏄 Beyond Code
 
 I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary research-heavy builds that need to go from idea to demo fast.
 
