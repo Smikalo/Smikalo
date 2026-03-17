@@ -171,59 +171,6 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 Agents • Context Engineering • Prompt Optimization • RAG • Evaluation • AI Infrastructure
 ```
 
-## Snapshot
-
-- 🎓 **B.Sc. Computer Science @ TUM** — 5th semester, 149 ECTS
-- 🧠 **Data & AI Software Engineer @ KI performance**
-- 🔬 **Incoming Applied Research Intern @ JetBrains Research**
-- 🚀 **Founder of PUM** — builder collective for hackathons, prototypes, and research demos
-- 🌍 **Munich, Germany**
-- 🗣️ **English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)**
-
----
-
-## Why recruiters usually stop scrolling here
-
-I sit at the intersection of **research taste** and **shipping ability**.
-
-At **KI performance**, I work on LLM systems, data pipelines, and evaluation workflows for client-facing AI projects.  
-At **TUM**, I focused my strongest coursework around software engineering, systems, and applied AI.  
-My current research direction is **how AI coding agents use context well** — and how to make those systems more measurable, robust, and useful in practice.
-
-That mix shows up consistently across my work:
-- production-minded agent systems
-- empirical research on agent behavior
-- fast execution in high-pressure team environments
-- strong bias toward architecture, reliability, and iteration
-
----
-
-## Featured projects
-
-<p align="left">
-  <a href="https://github.com/Smikalo/jetbrains-multiagentic-systems-internship"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=jetbrains-multiagentic-systems-internship&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="jetbrains-multiagentic-systems-internship" /></a>
-  <a href="https://github.com/Smikalo/med.ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=med.ai&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="med.ai" /></a>
-  <a href="https://github.com/Smikalo/Hack-HPI-H417"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=Hack-HPI-H417&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hack-HPI-H417" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/Smikalo/se4ai-seminar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=se4ai-seminar&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="se4ai-seminar" /></a>
-  <a href="https://github.com/Smikalo/pum-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=pum-website&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="pum-website" /></a>
-</p>
-
-| Project | Why it matters |
-|---|---|
-| [jetbrains-multiagentic-systems-internship](https://github.com/Smikalo/jetbrains-multiagentic-systems-internship) | Research work on context and prompt optimization for multi-agent coding systems |
-| [med.ai](https://github.com/Smikalo/med.ai) | Hallucination-aware multi-agent RAG for pharmaceutical knowledge bases |
-| [Hack-HPI-H417](https://github.com/Smikalo/Hack-HPI-H417) | Real-time road danger prediction using computer vision and graph-based modeling |
-| [se4ai-seminar](https://github.com/Smikalo/se4ai-seminar) | Research artifacts and comparison scripts for agentic systems optimization |
-| [pum-website](https://github.com/Smikalo/pum-website) | Main website repo for PUM — a fast-moving TUM builder collective |
-
-<p align="left">
-  <a href="https://github.com/Smikalo?tab=repositories&sort=updated"><img alt="Browse all repositories" src="https://custom-icon-badges.demolab.com/badge/-Browse%20All%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo" /></a>
-</p>
-
----
-
 ## Writing & research
 
 ### Agentic Systems Optimization — TUM seminar paper
