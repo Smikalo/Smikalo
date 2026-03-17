@@ -116,6 +116,70 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
 </p>
 
+
+
+
+
+
+### Tech Stack
+
+<details>
+<summary><b>Languages & Core</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>AI / ML & Data</b></summary>
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=flat)
+![Chroma](https://img.shields.io/badge/ChromaDB-000?style=flat)
+
+</details>
+
+<details>
+<summary><b>Engineering & Infrastructure</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Frameworks & Web</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+</details>
+
 ---
 
 ## 📊 Activity
@@ -259,195 +323,6 @@ React · Node.js · FastAPI · Flask · Laravel · Flutter
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Smikalo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true"/>
-</p>
-
----
-
-## 🌍 Info
-
-**Languages:** English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)  
-**Location:** Munich, Germany  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always interested in:
-- multi-agent systems
-- LLM product engineering
-- research collaborations
-- ambitious hackathon builds
-
-→ LinkedIn / Devpost / Email above
-
-<p align="center">
-  <a href="https://github.com/Smikalo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mykhailo+Kozyrev;Systems+%C2%B7+Agents+%C2%B7+Research" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mykhailo-kozyrev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://devpost.com/smrtkozyrev"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-  <a href="https://the-pum.com"><img src="https://img.shields.io/badge/the--pum.com-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Smikalo?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Smikalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Smikalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I build and study **multi-agent systems** — from production pipelines for Fortune 500 clients to empirical research on how AI agents manage context.
-
-- 🔬 **JetBrains Research** — Applied Research Intern studying context engineering & configuration patterns for AI coding agents (Claude Code, Cursor, Copilot). Repository mining, embedding-based cluster analysis, LLM-assisted pattern extraction.
-- 🏗️ **KI performance GmbH** — Shipped multi-agent LLM systems for Microsoft, Lufthansa, Mercedes-Benz, DHL. LangGraph orchestration on Azure. Certified: Azure AI Engineer, Azure Developer, Databricks Developer.
-- 📄 **Published** a systematic literature review on agentic systems optimization — five-layer taxonomy across 32 primary studies (Grade: 1.7 at TUM).
-- 🚀 **Founded [PUM](https://the-pum.com)** (Project of United Minds) — 50+ member hackathon org, 15+ international events, 10+ shipped prototypes under 24–48h constraints.
-- 🎓 **B.Sc. Computer Science @ TUM** — 5th semester, 149 ECTS earned (125% of recommended pace).
-
-### 🔭 Research Interests
-
-```
-1. Prompt analysis & refinement for LLM-powered applications
-2. Context engineering for AI coding agents — configs, memory, orchestration
-3. Multi-agent system optimization — architecture & developer productivity
-```
-
----
-
-## 📘 My Top Open Source Projects
-
-<p align="left">
-  <a href="https://github.com/Smikalo/jetbrains-multiagentic-systems-internship"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=jetbrains-multiagentic-systems-internship&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="jetbrains-multiagentic-systems-internship"></a>
-  <a href="https://github.com/Smikalo/Hack-HPI-H417"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=Hack-HPI-H417&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hack-HPI-H417"></a>
-  <a href="https://github.com/Smikalo/med.ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=med.ai&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="med.ai"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/Smikalo/se4ai-seminar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=se4ai-seminar&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="se4ai-seminar"></a>
-  <a href="https://github.com/Smikalo/pum-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Smikalo&repo=pum-website&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="pum-website"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
----
-
-## 🏆 Hackathon Track Record
-
-```
-15+ international hackathons  ·  10+ shipped prototypes  ·  50+ members in PUM
-```
-
-Projects span real-time big-data processing, multi-agent RAG platforms, accessibility-focused navigation, gamified dev tools, and prediction markets.
-
-<a href="https://devpost.com/smrtkozyrev"><img alt="See all on Devpost" title="Devpost Portfolio" src="https://custom-icon-badges.demolab.com/badge/-See%20All%20Projects%20on%20Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-
----
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ASmikalo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
-</p>
-
-### 🤖 AI / ML & Data
-
-<p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white">
-  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure%20OpenAI-0078D4.svg?logo=microsoftazure&logoColor=white">
-  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white">
-  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
-  <img alt="FAISS" src="https://custom-icon-badges.demolab.com/badge/FAISS-3B5998.svg?logo=meta&logoColor=white">
-  <img alt="ChromaDB" src="https://custom-icon-badges.demolab.com/badge/ChromaDB-4A154B.svg?logo=database&logoColor=white">
-</p>
-
-### 🧰 Frameworks & Web
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="CosmosDB" src="https://custom-icon-badges.demolab.com/badge/CosmosDB-0078D4.svg?logo=microsoftazure&logoColor=white">
-</p>
-
-### 💻 DevOps & Tools
-
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="gRPC" src="https://custom-icon-badges.demolab.com/badge/gRPC-244c5a.svg?logo=google&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
-</p>
-
----
-
-## 📊 Stats and Activity
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="Smikalo's streak"/>
-  </a>
-</p>
-
-### 💻 GitHub Profile Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Smikalo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Smikalo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Smikalo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F8D866" height="192px"/></a>
-</p>
-
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Smikalo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Smikalo&bg_color=0d1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true"/></a>
-</p>
-
----
-
 <p align="center">
   🌐 <b>Languages:</b> English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)
   <br/>
@@ -456,190 +331,3 @@ Projects span real-time big-data processing, multi-agent RAG platforms, accessib
 
 <h1 align="center">Hey, guys! Michael here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <div align="center">
-  
-**CS @ TUM · Applied Research Intern @ JetBrains Research · Founder of [PUM](https://the-pum.com)**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=fla6t&logo=linkedin&logoColor=white)](https://linkedin.com/in/mykhailo-kozyrev)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/smrtkozyrev)
-[![Website](https://img.shields.io/badge/the--pum.com-000?style=flat&logo=vercel&logoColor=white)](https://the-pum.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mykhailo.kozyrev@tum.de)
-
-</div>
-
----
-
-### `$ whoami`
-
-I build and study **multi-agent systems** — from production pipelines serving Fortune 500 clients to empirical research on how AI agents use context.
-
-- 🔬 **JetBrains Research** — studying context engineering & configuration patterns for AI coding agents (Claude Code, Cursor, Copilot). Large-scale repo mining, embedding-based cluster analysis, LLM-assisted pattern extraction.
-- 🏗️ **KI performance GmbH** — shipped multi-agent LLM systems for Microsoft, Lufthansa, Mercedes-Benz, DHL. LangGraph orchestration, Azure-certified (AI Engineer, Developer, Databricks).
-- 📄 **Published** a systematic literature review on agentic systems optimization — five-layer taxonomy across 32 primary studies.
-- 🚀 **Founded [PUM](https://the-pum.com)** (Project of United Minds) — 50+ member hackathon org, 15+ international events, 10+ shipped prototypes under 24–48h constraints.
-
----
-
-### Research Interests
-
-```
-1. Prompt analysis & refinement — pattern recognition, debugging tools, quality metrics
-2. Context engineering for AI coding agents — config files, memory systems, orchestration
-3. Multi-agent system optimization — architecture, orchestration, developer productivity
-```
-
----
-
-### Tech Stack
-
-<details>
-<summary><b>Languages & Core</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>AI / ML & Data</b></summary>
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=flat)
-![Chroma](https://img.shields.io/badge/ChromaDB-000?style=flat)
-
-</details>
-
-<details>
-<summary><b>Engineering & Infrastructure</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Frameworks & Web</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-</details>
-
----
-
-### Featured Projects
-
-| Project | What it does | Stack |
-|:--------|:------------|:------|
-| 🧠 **[jetbrains-multiagentic-systems-internship](https://github.com/Smikalo/jetbrains-multiagentic-systems-internship)** | Empirical study on context engineering for multi-agent coding systems | Python, Embeddings, LLM |
-| 🚗 **[Hack-HPI-H417](https://github.com/Smikalo/Hack-HPI-H417)** | Real-time road danger prediction via GNN on traffic camera streams | Python, GNN, Computer Vision |
-| 💊 **[med.ai](https://github.com/Smikalo/med.ai)** | Hallucination-resistant multi-agent RAG for pharmaceutical knowledge bases | Python, LangGraph, RAG |
-| 📝 **[se4ai-seminar](https://github.com/Smikalo/se4ai-seminar)** | Benchmarking scripts for agentic systems optimization research | Python |
-| 🌐 **[pum-website](https://github.com/Smikalo/pum-website)** | Organization website for PUM — [the-pum.com](https://the-pum.com) | TypeScript, Next.js |
-
----
-
-### Hackathon Track Record
-
-```
-15+ international hackathons  ·  10+ shipped prototypes  ·  50+ members in PUM
-```
-
-Projects span real-time big-data processing, multi-agent RAG platforms, accessibility-first navigation apps, gamified developer productivity tools, and prediction markets. Full portfolio on [Devpost →](https://devpost.com/smrtkozyrev)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Smikalo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
-
-</div>
-
----
-
-<div align="center">
-
-**Languages:** English (C2) · German (C1) · Ukrainian (Native) · Russian (Native)
-
-<sub>📍 Munich, Germany · 5th semester B.Sc. CS @ TUM · 149 ECTS earned (125% pace)</sub>
-
-</div>
-
-
-<p align="center">
-  <strong>Data & AI Software Engineer • Applied Research in Context Engineering • B.Sc. CS @ TUM</strong>
-</p>
-<p align="center">
-  I build and study multi-agent systems — from context engineering research and LLM evaluation
-  to production AI pipelines and hackathon prototypes that ship fast.
-</p>
-
-<p align="center">
-  <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/"><img src="https://img.shields.io/badge/LinkedIn-Mykhailo_Kozyrev-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/Smikalo"><img src="https://img.shields.io/badge/GitHub-Smikalo-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://devpost.com/smrtkozyrev"><img src="https://img.shields.io/badge/Devpost-smrtkozyrev-003E54?style=for-the-badge&logo=devpost" alt="Devpost" /></a>
-  <a href="https://the-pum.com/"><img src="https://img.shields.io/badge/PUM-Project_of_United_Minds-111111?style=for-the-badge" alt="PUM" /></a>
-</p>
-
----
-
-## About me
-
-- 🎓 **5th-semester B.Sc. Computer Science student at TUM**
-- 🔬 **Applied Research Intern @ JetBrains Research** — working on best practices in **context engineering for multi-agent coding systems**
-- 🧠 **Working Student, Data & AI Software Engineer @ KI performance** — building **LLM agents, evaluation pipelines, and production AI systems**
-- 🚀 **Founder / engineering lead in the hackathon space** — building fast, production-minded prototypes with international teams
-- 🌍 Based in **Munich, Germany**
-
-## What I focus on
-
-- **Prompt analysis and refinement** for LLM-powered applications
-- **Context engineering** for AI coding agents
-- **Multi-agent system orchestration, evaluation, and optimization**
-- **RAG + data pipelines** for real-world enterprise and research workflows
-- **Systems-first prototyping** across hackathons, internal tools, and startup-style builds
-
-## Selected work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [jetbrains-multiagentic-systems-internship](https://github.com/Smikalo/jetbrains-multiagentic-systems-internship) | Research repo on context and prompt optimizations for multi-agent coding systems | Research, prompt optimization, context engineering |
-| [med.ai](https://github.com/Smikalo/med.ai) | Self-checking multi-agent RAG system for pharmaceutical knowledge bases | Python, RAG, multi-agent systems |
-| [logiquest](https://github.com/Smikalo/logiquest) | Kotlin Multiplatform productivity app that gamifies coding workflows with hardware + AI integration | Kotlin, Compose, C#, Gemini |
-| [Hack-HPI-H417](https://github.com/Smikalo/Hack-HPI-H417) | Real-time road danger prediction using computer vision and graph neural networks | Python, CV, GNN, real-time inference |
-| [pum-website](https://github.com/Smikalo/pum-website) | Main website repo for **PUM — Project of United Minds** | TypeScript, React, Next.js |
-| [Devpost portfolio](https://devpost.com/smrtkozyrev) | Hackathon portfolio with shipped prototypes across AI, healthcare, accessibility, mobility, and developer productivity | Rapid prototyping, product engineering |
-
-## Research & engineering themes
-
-```text
-LLM evaluation • Prompt engineering • Context engineering • Multi-agent systems
-RAG pipelines • Tool orchestration • Data/ML systems • CI/CD for AI apps
-````
