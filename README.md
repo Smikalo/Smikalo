@@ -118,17 +118,12 @@ Projects span multi-agent RAG platforms, real-time big-data pipelines, accessibi
 
 ## Beyond code
 
-I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary builds that need to go from idea to demo fast.
+I enjoy high-intensity environments where good systems thinking matters — especially hackathons, research-driven prototyping, and interdisciplinary research-heavy builds that need to go from idea to demo fast.
 
-<p>
-  <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> •
-  <a href="https://devpost.com/smrtkozyrev">Devpost</a> •
-  <a href="https://the-pum.com/">PUM</a> •
-  <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
-</p>
+---
 
 <p align="center">
-  <strong>Let’s connect</strong><br/>
+  <strong>Let’s connect!</strong><br/>
   <a href="https://www.linkedin.com/in/mykhailo-kozyrev/">LinkedIn</a> · <a href="https://devpost.com/smrtkozyrev">Devpost</a> · <a href="https://the-pum.com/">PUM</a> · <a href="mailto:mykhailo.kozyrev@tum.de">Email</a>
 </p>
 
@@ -164,17 +159,6 @@ I enjoy high-intensity environments where good systems thinking matters — espe
 
 
 
-
-
-<p align="center">
-  <img src="./assets/banner.svg" alt="Mykhailo Kozyrev — multi-agent systems architecture banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Smikalo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=Hey%2C+I%27m+Mykhailo+Kozyrev;Multi-Agent+Systems+%C2%B7+Context+Engineering+%C2%B7+AI+Engineering" alt="Typing intro" />
-  </a>
-</p>
 
 <p align="center">
   <strong>Data &amp; AI Software Engineer • Incoming JetBrains Research Intern • B.Sc. CS @ TUM</strong>
