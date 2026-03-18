@@ -13,7 +13,7 @@
 
 ---
 
-## `$ whoami`
+## `$ whoami` 
 I am the one, who can **make your AI better**.
 
 I research **optimization**, **orchestration**, **environment**, **memory** and **context use** in **AI agents** and **multi-agent systems** and lead teams to build impressive products for **Fortune 500** companies and startups.
