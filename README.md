@@ -122,7 +122,6 @@ Won at hackathons, datathons and ideathons with international teams as teamlead,
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Smikalo&hide_border=true&short_numbers=true&background=12040F&stroke=2B0831&ring=FF4FCF&fire=FF93DD&currStreakNum=FFE6FB&sideNums=D992FF&currStreakLabel=FFB3EF&sideLabels=C89BBE&dates=8D5A87" alt="Streak stats" /></a>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smikalo&langs_count=8&layout=compact&hide_border=true&bg_color=12040F&title_color=FFB3EF&text_color=FFE6FB&icon_color=C85BFF" height="192px" />
 </div>
 
 ---
