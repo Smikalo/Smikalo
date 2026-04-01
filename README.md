@@ -8,7 +8,7 @@
   <a href="https://the-pum.com"><img src="https://img.shields.io/badge/PUM-Project_of_United_Minds-111111?style=for-the-badge" alt="PUM" /></a>
   <a href="mailto:mykhailo.kozyrev@tum.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Smikalo?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Smikalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow" /></a>
-  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Smikalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="Stars" /></a>
+  <a href="https://github.com/Smikalo?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Smikalo/smart_saves_bot?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="Stars" /></a>
 </p>
 
 ---
